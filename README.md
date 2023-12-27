@@ -8,7 +8,3 @@ Afin de configurer la touche d'ouverture de la tablette rendez-vous dans:<br>
 Vidéo: https://www.youtube.com/watch?v=SSNkXjE51_0 <br>
 Lien pour les touches: https://docs.fivem.net/docs/game-references/controls/
 <hr>
-Hébergeur FiveM Vraiment pas chers c'est ici -> http://fiveheberg.fr/ <br>
-Discord de FiveHeberg.fr -> https://discord.gg/ehcYrtYkYD
-<hr><br>
-<img src="https://i.goopics.net/5vi4wn.png">
